@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+.login-form {
+  border: solid 3px rgb(0, 0, 0);
+  padding: 10px;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.boton {
+  color: rgb(98, 0, 255);
+  min-width: 120px;
+  border: solid 2px black;
+  border-radius: 4px;
+  font-size: 18px;
+  margin-top: 15px;
+  width: 100%;
+}
+
+.inputText {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.thank-you-card {
+  width: 200px;
+  padding: 50px;
+  border: solid 3px rgb(66, 68, 62);
+  text-align: center;
+  margin: 0 auto;
+}
